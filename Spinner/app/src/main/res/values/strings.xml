@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Simple Spinner</string>
+
+    <string-array name="country">
+        <item>Indonesia</item>
+        <item>Malaysia</item>
+        <item>Singapura</item>
+        <item>Vietnam</item>
+        <item>Chnia</item>
+        <item>Jepang</item>
+    </string-array>
+</resources>
